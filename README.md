@@ -24,9 +24,9 @@
 点击进入
 http://
 
-![image](https://github.com/telecomopensrc/deviceID/raw/master/doc/operamap.jpg)
+![](https://github.com/telecomopensrc/deviceID/raw/master/doc/operamap.jpg)
 
-![image](https://github.com/telecomopensrc/deviceID/raw/master/doc/risklevel.jpg)
+![](https://github.com/telecomopensrc/deviceID/raw/master/doc/risklevel.jpg)
 
-![image](https://github.com/telecomopensrc/deviceID/raw/master/doc/data_compare.jpg)
+![](https://github.com/telecomopensrc/deviceID/raw/master/doc/data_compare.jpg)
 
